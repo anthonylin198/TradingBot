@@ -14,15 +14,13 @@
 
 - [About the Project](#about-the-project)
   - [Built With](#built-with)
-- [Getting Started](#getting-started)
-  - [Installation](#installation)
 - [Contributing](#contributing)
 
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
 
-Pulling financial data and performing financial analysis on S&P 500 companies, and implemntation script for a long term trading algorithm with ability to customize percentages invested into companies.
+Pulling financial data and performing financial analysis on S&P 500 companies, and implementation algorithm for a long term trading algorithm with ability to customize percentages invested into companies.
 
 ### Built With
 
